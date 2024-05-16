@@ -10,7 +10,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class Principal {
-    private static final String API_KEY = "69bd348d9820bfcee955a510";
+    private static final String API_KEY = "colar chave API aqui";
     private static final String BASE_URL = "https://v6.exchangeratesapi.io/latest?base=";
 
     public static void main(String[] args) {
